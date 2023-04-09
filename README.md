@@ -4,7 +4,7 @@ F-65 takımının App Jam uygulamasıdır.
 
 ## Uyglama Hakkında
 
-Bu uygulama Google Oyun Ve Uygulama Akademisi bursiyerlerinin, Akademinin sitesine kolayca ulaşıp derslerini izleyebileceği, izlediği dersleri puanlayıp yorumlayabildiği bir uygulamadır. Aynı zamanda uygulamanın içinde bulunan  'Görevlerim' kısmından kendilerine bir yapılacaklar listesi hazırlayıp görevlerini daha düzenli bir şekilde devam ettirebilir ve takip edebilir (Görevlerim sayfasında sağ üst köşede bulunan küçük butonla içinizdeki gücü bulabileceğinizi umuyoruz.)
+Bu uygulama Google Oyun Ve Uygulama Akademisi bursiyerlerinin, Akademinin sitesine kolayca ulaşıp gelişmeleri takip edebileceğiniz, izlediğiz dersleri puanlayıp yorumlayabildiği bir uygulamadır. Aynı zamanda uygulamanın içinde bulunan  'Görevlerim' kısmından kendilerine bir yapılacaklar listesi hazırlayıp görevlerini daha düzenli bir şekilde devam ettirebilir ve takip edebilir (Görevlerim sayfasında sağ üst köşede bulunan küçük butonla içinizdeki gücü bulabileceğinizi umuyoruz.)
 
 # UYGULAMA İÇİNDEN GÖRÜNTÜLER
 
